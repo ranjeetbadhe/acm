@@ -41,7 +41,7 @@ spec:
     #crTemplates:
     #  KlusterletAddonConfig: "KlussterletAddonConfigOverride.yaml"
     nodes:
-      - hostName: "example-node10"
+      - hostName: "example-node1"
         role: "master"
         # Optionally; This can be used to configure desired BIOS setting on a host:
         #biosConfigRef:
