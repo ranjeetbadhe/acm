@@ -44,7 +44,7 @@ spec:
       - hostName: "example-node1"
         role: "master"
         # Optionally; This can be used to configure desired BIOS setting on a host:
-        #biosConfigRef:
+        #biosConfigReffasfd
         #  filePath: "example-hw.profile"
         bmcAddress: "redfish-virtualmedia+https://192.168.0.15/redfish/v1/Systems/1/"
         bmcCredentialsName:
