@@ -39,7 +39,7 @@ spec:
     # cpuPartitioningMode: AllNodes
     # Optionally; This can be used to override the KlusterletAddonConfig that is created for this cluster:
     #crTemplates:
-    #  KlusterletAddonConfig: "KlusterletAddonConfigOverride.yaml"
+    #  KlusterletAddonConfig: "KlussterletAddonConfigOverride.yaml"
     nodes:
       - hostName: "example-node10"
         role: "master"
